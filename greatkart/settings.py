@@ -129,3 +129,10 @@ MESSAGE_TAGS = {
     messages.ERROR: "danger",
     50: "critical",
 }
+
+# SMTP configration
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'abrarhassan7809@gmail.com'
+EMAIL_HOST_PASSWORD = 'xsjs gzqd gnxo rimk'
+EMAIL_USE_TLS = True
